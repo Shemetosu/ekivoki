@@ -58,47 +58,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.ekivoki-admin-service [clean,compile...].executor": "Run",
-    "Maven.ekivoki-admin-service [clean].executor": "Run",
-    "Maven.ekivoki-data-service [clean,compile...].executor": "Run",
-    "Maven.ekivoki-data-service [clean,compile].executor": "Run",
-    "Maven.ekivoki-data-service [clean].executor": "Run",
-    "Maven.ekivoki-game-service [clean,compile...].executor": "Run",
-    "Maven.ekivoki-model-lib [clean,compile,package].executor": "Run",
-    "Maven.ekivoki-model-lib [install].executor": "Run",
-    "Maven.ekivoki-user-service [clean,compile...].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.AdminServiceApp.executor": "Run",
-    "Spring Boot.DataServiceApp.executor": "Run",
-    "Spring Boot.EkivokiGameApp.executor": "Run",
-    "Spring Boot.UserServiceApp.executor": "Run",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "liberica-full-21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java/projects/lesson09",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.28965518",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "af174ee06a5a3802180be6918fd9f0bc",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.ekivoki-admin-service [clean,compile...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ekivoki-admin-service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ekivoki-data-service [clean,compile...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ekivoki-data-service [clean,compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ekivoki-data-service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ekivoki-game-service [clean,compile...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ekivoki-model-lib [clean,compile,package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ekivoki-model-lib [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ekivoki-user-service [clean,compile...].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AdminServiceApp.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.DataServiceApp.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EkivokiGameApp.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.UserServiceApp.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;liberica-full-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/projects/lesson09&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.28965518&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;af174ee06a5a3802180be6918fd9f0bc&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.itgroup.data.converter" />
@@ -120,7 +120,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.AdminServiceApp">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ekivoki" />
       <method v="2">
