@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    openfeign:
+      client:
+        config:
+          session:
+            url: ${DATA_SERVER_HOST:http://localhost:8081}/api/data/sessions
+          card:
+            url: ${DATA_SERVER_HOST:http://localhost:8081}/api/data/cards
+          card-topic:
+            url: ${DATA_SERVER_HOST:http://localhost:8081}/api/data/cards/topics
+          card-type:
+            url: ${DATA_SERVER_HOST:http://localhost:8081}/api/data/cards/types

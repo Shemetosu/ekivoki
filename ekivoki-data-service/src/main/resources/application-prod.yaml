@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/ekivoki
+    username: root
+    password: root
+    hikari:
+      poolName: SpringBootJPAHikariCP
+      minimumIdle: 10
+      maximumPoolSize: 100
+      maxLifetime: 2000000
+      idleTimeout: 30000
+      connectionTimeout: 30000

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01b11dca-a9fa-4ba7-ba43-d88a0524417b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/ekivoki-model">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/ekivoki-model">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mcJF5qzIWTuAFoyVyv8H2IjzWB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.ekivoki-admin-service [clean,compile...].executor": "Run",
+    "Maven.ekivoki-admin-service [clean].executor": "Run",
+    "Maven.ekivoki-data-service [clean,compile...].executor": "Run",
+    "Maven.ekivoki-data-service [clean,compile].executor": "Run",
+    "Maven.ekivoki-data-service [clean].executor": "Run",
+    "Maven.ekivoki-game-service [clean,compile...].executor": "Run",
+    "Maven.ekivoki-model-lib [clean,compile,package].executor": "Run",
+    "Maven.ekivoki-model-lib [install].executor": "Run",
+    "Maven.ekivoki-user-service [clean,compile...].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.AdminServiceApp.executor": "Run",
+    "Spring Boot.DataServiceApp.executor": "Run",
+    "Spring Boot.EkivokiGameApp.executor": "Run",
+    "Spring Boot.UserServiceApp.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "liberica-full-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java/projects/lesson09",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.28965518",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "af174ee06a5a3802180be6918fd9f0bc",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.itgroup.data.converter" />
+      <recent name="com.itgroup.data.model.dto" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean compile package" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ekivoki" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ekivoki" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminServiceApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ekivoki-admin-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itgroup.admin.AdminServiceApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataServiceApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ekivoki-data-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itgroup.data.DataServiceApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EkivokiGameApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ekivoki-game-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itgroup.game.EkivokiGameApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ekivoki-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itgroup.user.UserServiceApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01b11dca-a9fa-4ba7-ba43-d88a0524417b" name="Changes" comment="" />
+      <created>1727369823547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727369823547</updated>
+      <workItem from="1727369824571" duration="1705000" />
+      <workItem from="1727372061703" duration="4544000" />
+      <workItem from="1727710781557" duration="12023000" />
+      <workItem from="1727878584191" duration="20999000" />
+      <workItem from="1728043335520" duration="250000" />
+      <workItem from="1728043593622" duration="1034000" />
+      <workItem from="1728046025810" duration="2900000" />
+      <workItem from="1728084890688" duration="3285000" />
+      <workItem from="1728092198017" duration="2043000" />
+      <workItem from="1728227531164" duration="40561000" />
+      <workItem from="1728667803956" duration="8414000" />
+      <workItem from="1728833039713" duration="311000" />
+      <workItem from="1728833358845" duration="12226000" />
+      <workItem from="1729073094523" duration="14495000" />
+      <workItem from="1729242861062" duration="7281000" />
+      <workItem from="1729801883775" duration="280000" />
+      <workItem from="1729802165109" duration="134000" />
+      <workItem from="1729802306749" duration="179000" />
+      <workItem from="1729802498275" duration="39000" />
+      <workItem from="1729802543240" duration="4125000" />
+      <workItem from="1729970974406" duration="687000" />
+      <workItem from="1730013941452" duration="796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ekivoki-data-service/src/main/java/com/itgroup/data/repository/dao/impl/CardRepositoryImpl.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+spring:
+  cloud:
+    openfeign:
+      client:
+        config:
+          sessions:
+            url: http://localhost:8081/api/data/sessions
+          cards:
+            url: http://localhost:8081/api/data/cards
+
+springdoc:
+  api-docs:
+    path: /api-doc
+  swagger-ui:
+    path: /api-ui

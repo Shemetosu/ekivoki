@@ -1,0 +1,19 @@
+ms:
+  data-service:
+    base_url: http://localhost:8081
+
+spring:
+  cloud:
+    openfeign:
+      client:
+        config:
+          tables:
+            url: ${ms.data-service.base_url}/api/data/tables
+          cards:
+            url: ${ms.data-service.base_url}/api/data/cards
+
+springdoc:
+  api-docs:
+    path: /api-doc
+  swagger-ui:
+    path: /api-ui

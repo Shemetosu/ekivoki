@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ekivoki-model" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ekivoki-data-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ekivoki-game-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ekivoki-model/pom.xml" />
+        <option value="$PROJECT_DIR$/ekivoki-model-lib/pom.xml" />
+        <option value="$PROJECT_DIR$/ekivoki-admin-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ekivoki-user-service/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$" />
+  </component>
+</project>
